@@ -126,3 +126,4 @@ Thus, the scalar product evaluates to 9. This makes the cosine similarity equal 
 ### Applications
 
 Two example applications are realized using the above defined classes: Diversity and Similarity estimators, residing in their corresponding packages.
+[![CodeQL Advanced](https://github.com/Sarangerel1232/ase-practice2/actions/workflows/codeql.yml/badge.svg)](https://github.com/Sarangerel1232/ase-practice2/actions/workflows/codeql.yml)
